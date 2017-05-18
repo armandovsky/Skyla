@@ -1,0 +1,42 @@
+{
+    "project_info": {
+        "project_number": "908697901846",
+        "firebase_url": "https://skyla-app.firebaseio.com",
+        "project_id": "skyla-app",
+        "storage_bucket": "skyla-app.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:908697901846:android:3654747dd6527d0d",
+                "android_client_info": {
+                    "package_name": "io.hydros.skyla"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "908697901846-p56gcqvufhg20r64su1rb2pdlnge7buk.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAvTHN5Edtc1xX4QZtrQyRrv5joYA47x2U"
+                }
+            ],
+            "services": {
+                "analytics_service": {
+                    "status": 1
+                },
+                "appinvite_service": {
+                    "status": 1,
+                    "other_platform_oauth_client": []
+                },
+                "ads_service": {
+                    "status": 2
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
